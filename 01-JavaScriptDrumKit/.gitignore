@@ -62,3 +62,6 @@ typings/
 
 # distribution directory
 dist
+
+#vs code stuff
+.vscode
